@@ -58,7 +58,7 @@ Learnt about media queries
 
 ## Author
 
-- LinkedIn - [Sudhanshu Singh]([https://www.your-site.com](https://www.linkedin.com/in/sudhanshusingh32/))
-- Frontend Mentor - [Sudhanshu Singh]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/sudhanshusingh-g))
-- Twitter - [Sudhanshu Singh]([https://www.twitter.com/yourusername](https://twitter.com/_sudhanshu97)https://twitter.com/_sudhanshu97)
+- LinkedIn - [Sudhanshu Singh](https://www.linkedin.com/in/sudhanshusingh32/)
+- Frontend Mentor - [Sudhanshu Singh](https://www.frontendmentor.io/profile/sudhanshusingh-g)
+- Twitter - [Sudhanshu Singh](https://twitter.com/_sudhanshu97)
 
