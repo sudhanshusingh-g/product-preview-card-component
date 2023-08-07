@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Preview Card Component](https://your-solution-url.com)
-- Live Site URL: [preview Card Component](https://your-live-site-url.com)
+- Solution URL: [Preview Card Component](https://github.com/sudhanshusingh-g/product-preview-card-component)
+- Live Site URL: [preview Card Component](https://sudhanshusingh-g.github.io/product-preview-card-component/)
 
 ###Screenshot
 ![image](https://github.com/sudhanshusingh-g/product-preview-card-component/assets/36367047/58b346ec-4e1a-43a9-afd4-e1214d88222c)
